@@ -1,7 +1,7 @@
 # 项目结构
 
 ```text
-nova-admmin
+nova-admin
 ├── .vscode                          # vscode 配置文件
 │   ├── extensions.json              # vscode 扩展插件推荐
 │   └── settings.json                # vscode 编辑器配置
